@@ -5,7 +5,12 @@ public class Bello {
 		
 		System.out.println("Oora therinjikitan ulagam purinjikitan");
 		System.out.println("ada da mazha da ada mazha da");
+
 		System.out.println("Amul ice uh");
+
+		System.out.println("dei");
+
+
 		
 	}
 }
